@@ -26,7 +26,6 @@ I'm a B.Tech student focused on **AI engineering and LLM-powered applications**.
 | Project | What it does |
 |---|---|
 | [**RAG Project**](https://github.com/udaychauhan2106/RAG-project) | Document question-answering system with LangGraph, Qdrant retrieval, and FlashRank reranking. |
-| [**SMRITI**](https://github.com/udaychauhan2106/sih) | Offline-first cognitive support platform with patient and caregiver experiences. |
 | [**GTM Agent**](https://github.com/udaychauhan2106/gtm-agent) | Early-stage LangGraph workflow for lead qualification and research. |
 | [**Aster & Row Support Agent**](https://github.com/udaychauhan2106/assignment) | Support assistant built around grounded retrieval and response safeguards. |
 | [**Churn Predictor**](https://github.com/udaychauhan2106/churn_predicator) | Customer churn prediction project using machine learning. |
